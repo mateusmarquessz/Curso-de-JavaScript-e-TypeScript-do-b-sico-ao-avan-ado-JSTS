@@ -1,0 +1,14 @@
+/*
+Aritmeticos
++
+-
+*
+/
+**
+%
+
+*/
+
+//Incrimentos
+//= ++ Incremento
+// = -- Decremento
