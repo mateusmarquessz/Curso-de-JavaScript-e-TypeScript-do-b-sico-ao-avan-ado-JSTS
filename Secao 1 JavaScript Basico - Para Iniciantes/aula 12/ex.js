@@ -4,6 +4,4 @@ let num2 = prompt("Digite um numero");
 num1 = parseFloat(num1);
 num2 = parseFloat(num2);
 
-const resultado = num1 + num2;
-
-alert('O resultado foi :' + resultado);
+alert(`O resultado da sua conta foi: ${num1 + num2}`);
