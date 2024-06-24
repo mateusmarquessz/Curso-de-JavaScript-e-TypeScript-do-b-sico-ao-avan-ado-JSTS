@@ -56,20 +56,3 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
-
-.relogio{
-  font-size: 3em;
-}
-
-button{
-  width: 100px;
-  height: 20px; 
-  font-size: 16px; 
-}
-.pausado {
-  color: red;
-}
-
-.despausado{
-  color:black;
-}
